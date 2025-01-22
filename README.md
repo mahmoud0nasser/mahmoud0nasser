@@ -21,7 +21,7 @@ I'm a passionate **Machine Learning Engineer** with a strong interest in solving
 - 📚 Exploring state-of-the-art advancements in multimodal AI that combine NLP and CV.
 
 ### How to Reach Me
-- 📫 Email: [mhnasser00@gmail.com](mailto:mhnasser00@gmail.com)
+- 📫 Email: [mahmoud.nasser.abdelfatah@gmail.com](mailto:mahmoud.nasser.abdelfatah@gmail.com)
 - 🧑‍💻 GitHub: [mahmoud0nasser](https://github.com/mahmoud0nasser)
 
 ### Fun Fact
